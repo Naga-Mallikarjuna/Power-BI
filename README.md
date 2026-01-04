@@ -8,6 +8,12 @@ geo-spatial distribution of QC operations.
 
 ## Power BI Dashboard
 
+[![Site Performance](powerbi/screenshots/SIte Performace Summary.png)]
+
+[![Delivery Stage Analysis](powerbi/screenshots/Delivery Stage Analysis.png)]
+
+[![Delivery Stage Analysis](powerbi/screenshots/Executive Summary.png)]
+
 ### Executive Summary
 ![Executive Summary](powerbi/screenshots/Executive Summary.png) 
 
