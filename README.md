@@ -6,7 +6,13 @@ The Power BI dashboard provides end-to-end visibility into
 order volume, SLA performance, delivery stages, and
 geo-spatial distribution of QC operations.
 
+## Power BI Dashboard
+
 ### Executive Summary
-![Executive Summary]
-### Geo Analysis
-![Geo Analysis]
+![Executive Summary](powerbi/screenshots/Executive Summary.png) 
+
+### Site Performance Analysis
+![Site Performance](powerbi/screenshots/SIte Performace Summary.png)
+
+### Delivery Stage Analysis
+![Delivery Stage Analysis](powerbi/screenshots/Delivery Stage Analysis.png)
